@@ -1,12 +1,12 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /mediumish-theme-jekyll
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+name: "Manaswini Ganjam"
+title: "Manaswini Ganjam"
+description: "A tenalach and a early stage researcher in Geoinformatics."
+logo: 'assets/images/Logo1.png'
+favicon: 'assets/images/logo_name.png'
+baseurl: ''
+google_analytics: 'UA-176288441-1'
+disqus: 'https-manaswiniganjam-github-io.'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
@@ -24,12 +24,21 @@ authors:
   john:
     name: John
     display_name: John    
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/avatar_me.jpg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+ Manaswini:
+    name: Manaswini
+    display_name: Manaswini    
+    avatar: 'assets/images/avatar_me.jpg'
+    gravatar: 
+    email: manu.ganjam@gmail.com
+    web: 
+    twitter: https://twitter.com/wowthemesnet
+    description: "A Geo-informatics researcher"
 
 # Plugins
 plugins:
